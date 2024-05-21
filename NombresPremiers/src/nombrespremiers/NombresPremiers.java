@@ -10,7 +10,7 @@ package nombrespremiers;
 public class NombresPremiers {
 
 	public static void main(String[] args) {
-        int low = 2, high = 100;
+        int low = 2, high = 50;
 
         while (low < high) {
             boolean flag = false;
