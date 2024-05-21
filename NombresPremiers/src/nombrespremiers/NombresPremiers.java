@@ -14,7 +14,7 @@ public class NombresPremiers {
 
         while (low < high) {
             boolean flag = false;
-            // Um programme par Martin !!!
+            // Um programme par Martin !!! !!!
             for(int i = 2; i <= low/2; ++i) {
                 // Détermine si le nombre est premier
                 if(low % i == 0) {
