@@ -1,7 +1,5 @@
 /*
- * Gabarit de projet.
- * 
- * Utilisation :
+ * Utilisation : Afficher des nombres premiers.
  * Par Martin, mai 2024
  * 
  */

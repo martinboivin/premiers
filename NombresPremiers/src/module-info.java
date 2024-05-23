@@ -4,6 +4,5 @@
 /**
  * 
  */
-
-module HelloWorld {
+module nombrespremiers {
 }
